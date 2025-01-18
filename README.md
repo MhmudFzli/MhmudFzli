@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @MhmudFzli
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning Ai
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me @pvzfan
+
 - ⚡ Fun fact: human brain is much faster at determining scene novelty and has a
                 much larger capacity. To achieve this, the brain uses an agreement between
                 multiple neurons. The more neurons indicate that the given image is novel, the
